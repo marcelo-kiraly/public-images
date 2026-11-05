@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512"><defs>
+  <linearGradient id="levve-coral" x1="0.03" y1="0" x2="0.95" y2="1" objectBoundingBox="true"><stop offset="0" stop-color="#FF9B91"/><stop offset="1" stop-color="#F6766F"/></linearGradient>
+  <linearGradient id="levve-orange" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFCE8E"/><stop offset="1" stop-color="#FFA861"/></linearGradient>
+  <linearGradient id="app-cream" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF5EC"/><stop offset="1" stop-color="#F9E7D8"/></linearGradient>
+  <linearGradient id="app-sunset" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F6766F"/><stop offset="0.6" stop-color="#F6766F"/><stop offset="1" stop-color="#FFA861"/></linearGradient>
+  <g id="levve-wing-v02"><path d="M14,18 C25,19 42,26 50,40 C57,52 59,65 59,79 C48,66 30,49 20,38 C15,32 13,24 14,18 Z" fill="url(#levve-coral)"/><path d="M14,18 C25,19 42,26 50,40 C57,52 59,65 59,79 C48,66 30,49 20,38 C15,32 13,24 14,18 Z" fill="url(#levve-orange)" transform="translate(120 0) scale(-1 1)"/></g>
+</defs><rect x="8" y="8" width="496" height="496" rx="124" fill="url(#app-cream)"/>
+<rect x="8.7" y="8.7" width="494.6" height="494.6" rx="123" fill="none" stroke="#EED9C7" stroke-width="1.4"/>
+<use href="#levve-wing-v02" xlink:href="#levve-wing-v02" transform="translate(78.00 71.00) scale(2.97000)"/></svg>
